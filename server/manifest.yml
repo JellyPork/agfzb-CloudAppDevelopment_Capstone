@@ -1,5 +1,5 @@
   applications:
-  - name: fullDevDjangoApp
+  - name: djangoapp
     routes:
       - route: jellypork.us-east.cf.appdomain.cloud
     memory: 128M
