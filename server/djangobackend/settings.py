@@ -27,7 +27,7 @@ DEBUG = True
 
 APPEND_SLASH = True
 
-ALLOWED_HOSTS = ["localhost", "mojitolion.us-east.cf.appdomain.cloud","localhost:8000","127.0.0.1", "p8080-56de477f-5287-409b-ac1e-35d3600d6ea5.dp2.us-south.shell.cloud.ibm.com"]
+ALLOWED_HOSTS = ["localhost", "bbgbestcars.mybluemix.net","localhost:8000","127.0.0.1", "p8080-56de477f-5287-409b-ac1e-35d3600d6ea5.dp2.us-south.shell.cloud.ibm.com"]
 
 
 # Application definition
