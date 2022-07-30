@@ -1,11 +1,11 @@
   applications:
   - name: fullDevDjangoApp
     routes:
-      - route: jellypork.apic.us-east.mybluemix.net
+      - route: jellypork.us-east.cf.appdomain.cloud
     memory: 128M
     buildpack: python_buildpack
   - name: fulldevpain-nginx
     routes:
-      - route: jellypork.apic.us-east.mybluemix.net/static
+      - route: jellypork.us-east.cf.appdomain.cloud/static
     memory: 128M
     buildpack: staticfile_buildpack
