@@ -27,7 +27,7 @@ DEBUG = True
 
 APPEND_SLASH = True
 
-ALLOWED_HOSTS = ["localhost","127.0.0.1","jellypork.apic.us-east.mybluemix.net"]
+ALLOWED_HOSTS = ["localhost","127.0.0.1","jellypork.us-east.cf.appdomain.cloud"]
 
 
 # Application definition
